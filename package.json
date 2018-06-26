@@ -1,7 +1,7 @@
 {
   "name": "window-managers",
   "scope": "beatthat",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A PanelController can be used to implement UI elements that transition in and out, like popup windows.",
   "main": "index.js",
   "repository": {
