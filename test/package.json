@@ -10,7 +10,7 @@
     "overwrite:test2src": "node ./scripts/overwrite-test2src.js"
   },
   "dependencies": {
-    "window-managers": "../window-managers-0.0.1.tgz"
+    "window-managers": "../window-managers-latest.tgz"
   },
   "devDependencies": {
     "babel-core": "^5.8.23",
